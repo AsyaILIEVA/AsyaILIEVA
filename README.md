@@ -7,7 +7,7 @@ I build ASP.NET Core applications and data-driven tools, combining geological do
 ## Current Projects
 
 - MedicalCenterApp
-- Reservoir Analytics Dashboard
+- Reservoir Analytics Dashboard (in progress)
 
 ## Technologies
 
@@ -17,7 +17,7 @@ I build ASP.NET Core applications and data-driven tools, combining geological do
 - SQL Server
 - Git
 - Clean Architecture
-
+  
 ## Interests
 
 - Reservoir analytics
