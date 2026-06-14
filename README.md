@@ -1,8 +1,17 @@
 ## Hi there 👋 I'm Asya
 
-Petroleum Geologist transitioning into Software Development.
+I'm a Petroleum Geologist transitioning into software development with a focus on
+C# and ASP.NET Core. I build data-driven applications that combine domain expertise with modern
+software engineering practices. My current work includes web applications, database 
+design, and analytics tools, with a particular interest in solutions for the 
+energy industry.
 
-I build ASP.NET Core applications and data-driven tools, combining geological domain knowledge with software engineering.
+I am committed to continuous learning and improving my skills in software design, 
+clean code, and application architecture. I enjoy solving complex problems and 
+building maintainable, well-structured solutions.
+
+My goal is to bridge the gap between domain knowledge and technology by 
+creating software that transforms complex data into meaningful insights.
 
 ### Current Projects
 
@@ -36,8 +45,9 @@ I build ASP.NET Core applications and data-driven tools, combining geological do
 ### Interests
 
 - Reservoir analytics
-- Production data visualization
 - Geological and well-log data correlation
+- Production data visualization
+
 <!--
 **AsyaILIEVA/AsyaILIEVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
