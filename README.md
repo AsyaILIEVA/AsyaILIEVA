@@ -67,20 +67,20 @@ JavaScript · HTML · CSS
 SQL Server · Entity Framework Core · Git · GitHub · Visual Studio · VS Code
 
 ### 📚 Currently Learning
-JavaScript
-Node.js
-React
-TypeScript
-REST API development
+JavaScript, 
+Node.js, 
+React, 
+TypeScript, 
+REST API development, 
 Cloud and Azure
 
 ### 🎯 Professional Interests
-Reservoir analytics
-Geological and well-log data correlation
-Production data analysis
-Data visualization
-Energy technology
-Subsurface data management
+Reservoir analytics, 
+Geological and well-log data correlation, 
+Production data analysis, 
+Data visualization, 
+Energy technology, 
+Subsurface data management, 
 Software solutions for the oil & gas industry
 
 ### 🌱 What I'm Working Toward
