@@ -1,19 +1,14 @@
 ## Hi there 👋 I'm Asya
 
-I'm a Petroleum Geologist transitioning into software development with a focus on
-C# and ASP.NET Core MVC. I build data-driven applications that combine domain expertise with modern
-software engineering practices. My current work includes web applications, database 
-design, and analytics tools, with a particular interest in solutions for the 
-energy industry.
+I'm a Petroleum Geologist transitioning into software development, with a focus on C#, ASP.NET Core, JavaScript, and data-driven applications.
 
-I am committed to continuous learning and improving my skills in software design, 
-clean code, and application architecture. I enjoy solving complex problems and 
-building maintainable, well-structured solutions.
+I combine my background in petroleum geology with software engineering to build applications that turn complex technical data into useful information and practical insights.
 
-My goal is to bridge the gap between domain knowledge and technology by 
-creating software that transforms complex data into meaningful insights.
+My current focus is on full-stack web development, including backend development with .NET, frontend development with JavaScript, database design, REST APIs, and data visualization. I'm also expanding my skills in Node.js, React, and cloud technologies.
 
-### Current Projects
+My goal is to bridge the gap between domain expertise and technology, creating software solutions for the energy industry and other data-intensive fields.
+
+### 🚀 Current Projects
 
   #### MedicalCenterApp 
   ASP.NET Core MVC web application for managing patients, doctors, appointments, and medical records in a medical centre environment. This project was developed as part of the SoftUni C# Web ASP.NET Fundamentals course - January 2026 and improved and completed during C# Web ASP.NET Advanced course - February 2026. It follows modern ASP.NET Core architectural practices, including layered structure and separation of concerns.
@@ -21,35 +16,50 @@ creating software that transforms complex data into meaningful insights.
  #### Petroleum Subsurface Insights (in progress) 
  A lightweight web data portal for consolidating geological, petrophysical, and production data into interactive dashboards and meeting-ready reports for subsurface teams and management in oil and gas companies.
 
-### Technologies
+### 🛠️ Technologies
 
- <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" /> 
-   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="30" />
-   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="30" />
-   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" />
-   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" />
-   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="30" />
-   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" />
-   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" />
-   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" />
-   &nbsp;&nbsp;          
-</p>          
-          
-  
-### Interests
+#### Backend
 
-- Reservoir analytics
-- Geological and well-log data correlation
-- Production data visualization
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="30" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" /> </p>
+
+C# · ASP.NET Core · Node.js · REST APIs
+
+#### Frontend
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" /> </p>
+
+JavaScript · HTML · CSS
+
+#### Database & Tools
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="30" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="30" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" /> </p>
+
+SQL Server · Entity Framework Core · Git · GitHub · Visual Studio · VS Code
+
+### 📚 Currently Learning
+JavaScript
+Node.js
+React
+TypeScript
+REST API development
+Cloud and Azure
+
+### 🎯 Professional Interests
+Reservoir analytics
+Geological and well-log data correlation
+Production data analysis
+Data visualization
+Energy technology
+Subsurface data management
+Software solutions for the oil & gas industry
+
+### 🌱 What I'm Working Toward
+
+My long-term goal is to become a full-stack developer with strong .NET, JavaScript, and cloud skills, while using my petroleum geology background to build technology for data-intensive industries.
+
+I am particularly interested in applications that connect:
+
+Geoscience → Data → Software → Insights
 
 <!--
 **AsyaILIEVA/AsyaILIEVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
