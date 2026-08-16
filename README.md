@@ -10,11 +10,41 @@ My goal is to bridge the gap between domain expertise and technology, creating s
 
 ### 🚀 Current Projects
 
-  #### MedicalCenterApp 
-  ASP.NET Core MVC web application for managing patients, doctors, appointments, and medical records in a medical centre environment. This project was developed as part of the SoftUni C# Web ASP.NET Fundamentals course - January 2026 and improved and completed during C# Web ASP.NET Advanced course - February 2026. It follows modern ASP.NET Core architectural practices, including layered structure and separation of concerns.
+### Medical Centre App
 
- #### Petroleum Subsurface Insights (in progress) 
- A lightweight web data portal for consolidating geological, petrophysical, and production data into interactive dashboards and meeting-ready reports for subsurface teams and management in oil and gas companies.
+ASP.NET Core MVC web application for managing patients, doctors, appointments, and medical records in a medical centre environment.
+
+Developed as part of the SoftUni C# Web ASP.NET Fundamentals course and further improved during the C# Web ASP.NET Advanced course.
+
+The project focuses on:
+
+ASP.NET Core MVC, 
+C#, 
+Entity Framework Core, 
+Microsoft SQL Server, 
+Authentication and authorization, 
+Layered architecture, 
+Separation of concerns, 
+CRUD operations, 
+Data validation
+
+### Petroleum Subsurface Insights 🔬 (in progress)
+
+A lightweight web data portal designed to consolidate geological, petrophysical, and production data into interactive dashboards and meeting-ready reports for subsurface teams and management in oil and gas companies.
+
+The project aims to explore how software can improve the way technical teams work with large and diverse subsurface datasets.
+
+Planned areas include:
+
+Geological and well data, 
+Petrophysical data, 
+Production data, 
+Data correlation, 
+Interactive dashboards, 
+Data visualization, 
+Reporting, 
+REST APIs, 
+Database-driven analytics
 
 ### 🛠️ Technologies
 
